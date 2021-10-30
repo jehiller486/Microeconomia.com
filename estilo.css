@@ -1,0 +1,33 @@
+body{
+
+	background-image: url(OTRO.jpg);
+	background-size: 100%;
+
+}
+
+.texto{
+	background-image: url(OTRO.jpg);
+	border-radius:10px;
+	font-size:20px;
+	text-align:center;
+	margin-top:100px;
+	border: dashed;
+}
+
+.enviar-datos{
+
+	border-rodius:10px;
+	font-size:15px;
+	background:aquamarine;
+	cursor:pointer;
+	background-image: url(fondo.jpg);
+}
+
+h1{
+
+	color:#F18410;
+	text-align:center;
+}
+
+
+
